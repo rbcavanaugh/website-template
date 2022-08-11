@@ -1,0 +1,23 @@
+---
+title: "Rob Cavanaugh"
+about:
+  template: jolla
+  image: images/profile.jpg
+  links:
+    - icon: mortarboard-fill
+      text: Scholar
+      href: https://scholar.google.com/citations?user=7pMLCJsAAAAJ&hl=en&oi=sra
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/rb_cavanaugh
+    - icon: envelope-fill
+      text: email
+      href: mailto:rob.cavanaugh@pitt.edu
+    - icon: file-earmark-pdf-fill
+      text: CV
+    - href: https://rbcavanaugh.github.io/website-template/cv.pdf
+---
+
+I\'m a PhD candidate at the [University of Pittsburgh](https://www.lrcl.pitt.edu/) and ASHA-certified speech-language pathologist. My research aims to improve the effectiveness and clinical implementation of aphasia rehabilitation services from two perspectives: (1) specifying the active ingredients of aphasia treatments and (2) developing technology-based tools to accelerate the clinical implementation of aphasia research. To achieve these goals, my research combines training in aphasia treatment theory, quantitative methods and statistical programming, implementation science, and my clinical experiences as a speech-language pathologist. I\'m also passionate about team science, sharing and promoting quantitative methods, and open science practices within the field of communication sciences and disorders. Ultimately, my hope is that this work will lead to more effective treatments for aphasia and related disorders that address language difficulties, communication skills, life participation and well being, even with [today\'s clinical practice constraints](https://podcasts.apple.com/ph/podcast/episode-77-voltage-drop-and-aphasia-treatment/id1166457367?i=1000539987679).
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
